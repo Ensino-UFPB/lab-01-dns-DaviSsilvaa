@@ -1,0 +1,4 @@
+zone "davi_silva.com" {
+    type master;
+    file "/etc/bind/db.davi_silva.com";
+};
